@@ -1,2 +1,3 @@
-# BroskieCoding
-Learning JavaScript on Mobile
+Hi there I'm Broskiecodes 
+Learning JavaScript On My Phone
+South Africa
